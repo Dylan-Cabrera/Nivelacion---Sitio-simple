@@ -1,0 +1,13 @@
+.color-1{
+    color: black;
+}
+
+.color-2{
+    color: white;
+    background-color: black;
+}
+
+.color-3{
+    color: red;
+    background-color: rgb(113, 211, 220);
+}
